@@ -6,6 +6,7 @@ import lombok.Data;
 
 @Data
 public class BookType {                 
+    /shi/shishji
     //
     private Integer id;
 
